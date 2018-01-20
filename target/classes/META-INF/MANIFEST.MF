@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: learning-spring-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: najeeb
+Implementation-Vendor-Id: com.najeeb.spring.jpa
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/learning-spring-jpa/
+Created-By: Maven Integration for Eclipse
+
